@@ -49,22 +49,3 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 ![RaspberryPi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![ZigBee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
-
-## ⚡ My GitHub Stats
-<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kunchalavikram1427&show_icons=true&theme=gotham" alt="kunchalavikram1427" />
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kunchalavikram1427&show_icons=true&line_height=27&include_all_commits=true"/> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunchalavikram1427&hide=TeX&layout=compact)
- -->
- | <a href="https://github.com/vikash-kumar01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash-kumar01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-kumar01&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-## ⚡ Top Repositories
-<a href="https://github.com/vikash-kumar01/demo-counter-app.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-kumar01&repo=demo-counter-app&theme=buefy" />
-</a>
-<a href="https://github.com/vikash-kumar01/installation_scripts.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-kumar01&repo=installation_scripts&theme=buefy" />
-</a>
-<hr>
-<h3 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://www.facebook.com/groups/171043094400359">here</a> </h3> 
