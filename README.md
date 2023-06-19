@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! My name is Vipul Pancholi. 👋🤓</h2>
 <p align="center">I'm a DevOps Engineer from India. 
-Most of the time you see me working on various technologies in DevOps tools like Docker, Kubernetes, Ansible, Terraform, Jenkins, Git, etc.
+Most of the time you see me working on various technologies in DevOps tools like AWS (Microservices), Docker, Kubernetes, Ansible, Terraform, Jenkins, Git, etc.
 When I'm not writing, you can find me watching videos on youtube, watching sitcoms, daydreaming, or playing mobile games. </p>
 
 ## ⚡ Updates
